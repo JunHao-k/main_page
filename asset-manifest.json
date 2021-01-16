@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/main_page/static/css/main.485daf46.chunk.css",
+    "main.css": "/main_page/static/css/main.835ccc34.chunk.css",
     "main.js": "/main_page/static/js/main.36ebe463.chunk.js",
     "main.js.map": "/main_page/static/js/main.36ebe463.chunk.js.map",
     "runtime-main.js": "/main_page/static/js/runtime-main.897444da.js",
@@ -10,7 +10,7 @@
     "static/js/3.3a323f74.chunk.js": "/main_page/static/js/3.3a323f74.chunk.js",
     "static/js/3.3a323f74.chunk.js.map": "/main_page/static/js/3.3a323f74.chunk.js.map",
     "index.html": "/main_page/index.html",
-    "static/css/main.485daf46.chunk.css.map": "/main_page/static/css/main.485daf46.chunk.css.map",
+    "static/css/main.835ccc34.chunk.css.map": "/main_page/static/css/main.835ccc34.chunk.css.map",
     "static/js/2.42f7135b.chunk.js.LICENSE.txt": "/main_page/static/js/2.42f7135b.chunk.js.LICENSE.txt",
     "static/media/guessNum.jpg": "/main_page/static/media/guessNum.d0856dc7.jpg",
     "static/media/App.css": "/main_page/static/media/profilePict.f7e04e7b.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.897444da.js",
     "static/js/2.42f7135b.chunk.js",
-    "static/css/main.485daf46.chunk.css",
+    "static/css/main.835ccc34.chunk.css",
     "static/js/main.36ebe463.chunk.js"
   ]
 }
